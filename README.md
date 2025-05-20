@@ -128,6 +128,9 @@ Packages/
 2. Load `Assets/Scenes/MainMenu.unity`  
 3. Click ▶️ to play from the main menu
 
+**Or download and unzip the playable version from:**  
+📦 [`Fly Guys – Workable Game.zip`](Fly%20Guys%20–%20Workable%20Game.zip)
+
 ---
 
 ## 📦 Status

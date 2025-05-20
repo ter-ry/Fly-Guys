@@ -33,16 +33,16 @@ Built with Unity, C#, and custom level mechanics, Fly Guys is a time-trial chall
 ## 🖼️ Screenshots
 
 ```markdown
-![Main Screen](Screenshots/Picture1.png)
-![Skybox Sample 1](Screenshots/Picture2.png)
-![Skybox Sample 2](Screenshots/Picture3.png)
-![Skybox Sample 3](Screenshots/Picture4.png)
-![Levels](Screenshots/Picture6.png)
-![Tutorial Levels](Screenshots/Picture11.png)
-![Game Start](Screenshots/Picture7.png)
-![Game End](Screenshots/Picture8.png)
-![Models 1](Screenshots/Picture9.png)
-![Modles 2](Screenshots/Picture10.png)
+![Main Screen](screenshots/Picture1.png)
+![Skybox Sample 1](screenshots/Picture2.png)
+![Skybox Sample 2](screenshots/Picture3.png)
+![Skybox Sample 3](screenshots/Picture4.png)
+![Levels](screenshots/Picture6.png)
+![Tutorial Levels](screenshots/Picture11.png)
+![Game Start](screenshots/Picture7.png)
+![Game End](screenshots/Picture8.png)
+![Models 1](screenshots/Picture9.png)
+![Modles 2](screenshots/Picture10.png)
 ```
 
 ---

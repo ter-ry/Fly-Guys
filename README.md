@@ -44,6 +44,13 @@ Built with Unity, C#, and custom level mechanics, Fly Guys is a time-trial chall
 ![Models 1](screenshots/Picture9.png)
 ![Modles 2](screenshots/Picture10.png)
 ```
+## 🖼️ Screenshots
+
+### Main Menu
+![Main Screen](screenshots/Picture1.png)
+
+### Sample Level
+![Sample](screenshots/Picture7.png)
 
 ---
 
@@ -113,13 +120,6 @@ Packages/
 
 ---
 
-## ✍️ Authors
-
-- Terry Mak (Mak Ho Chit)  
-- Christie Fong (Fong Wing Tung)
-
----
-
 ## 🛠 How to Run
 
 1. Open the project in **Unity 2023.1.0 beta**  
@@ -131,11 +131,3 @@ Packages/
 ## 📦 Status
 
 This project was built over 3 months as part of a university capstone. While it's still being improved, it is playable and fully functional in time-trial mode.
-
----
-
-## 📎 License
-
-This project is shared for educational and portfolio purposes.  
-**Recommended license:** [MIT](https://choosealicense.com/licenses/mit/) or [Unlicense](https://choosealicense.com/licenses/unlicense/)  
-If you don't want others to reuse code/assets: use [Creative Commons NoDerivatives](https://choosealicense.com/licenses/cc-by-nd-4.0/)
